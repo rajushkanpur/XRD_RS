@@ -1,5 +1,5 @@
 Detector angle	Rate at 25kV	Rate at 30kV	Rate at 35kV
-2*theta/°	R(25kV)/Imp/s	R(30kV)/Imp/s	R(35kV)/Imp/s
+2*theta/ï¿½	R(25kV)/Imp/s	R(30kV)/Imp/s	R(35kV)/Imp/s
 
 6.0	2.0	12.0	54.0
 6.2	2.0	6.0	29.0
